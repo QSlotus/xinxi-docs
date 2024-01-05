@@ -35,7 +35,8 @@
 | /balance [玩家] | /bal , /money | 查看某玩家的金钱数 | |
 | /balancetop [页数] | /baltop | 服务器内金钱榜 | |
 | /mail [ read\clear\send [to] [ 信息 ]] | /email | 发送和查阅短信 | |
-| /gc | /lag , /tps , /mem , /uptime , /memory , /entities | 查看服务器的使用信息 | |
+| /gc | /lag , /tps , /mem , /uptime , /memory , /entities | 查看服务器的使用信息 |  |
+| /hat | /head | 把手上的物品戴到头上 / 把头上的物品拿下来 |  |
 
 ## 插件指令 
 
