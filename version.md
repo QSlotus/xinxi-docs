@@ -23,8 +23,8 @@
 
 如果您不想安装上述mod，那您可以选择安装 Minecraft 任意版本
 
-- Vanilla（原版） / Fabric / Forge
-- 1.8.x - latest
+- Vanilla（原版） / Forge / Fabric
+- 1.7.2 - 1.20.4
 
 如果您不安装上述Mod，您将无法使用服务器内点歌功能、服务器内语音通话功能。
 
