@@ -13,7 +13,7 @@
 | **VoiceChat**                                   | 是       | 对接服务器内语音聊天功能，使玩家可以连接到服务器内语音聊天服务器。 | 支持Forge<br />支持 Fabric    | [123盘](https://www.123pan.com/s/ufwUVv-kvJk3.html)<br />[蓝奏云](https://qiusyan.lanzout.com/iX36Y1k30hmj) 密码：mods | [123盘](https://www.123pan.com/s/ufwUVv-yjBk3.html) <br />[蓝奏云](https://qiusyan.lanzout.com/irlku1jti4na) 密码：mods |
 | **Xaero's Minimap**                             | 否       | 提供服务器内小地图。                                         | 支持 Forge<br />支持 Fabric   | [123盘](https://www.123pan.com/s/ufwUVv-ovJk3.html)<br />[蓝奏云](https://qiusyan.lanzout.com/i7szr1k30vpg) 密码：mods | [123盘](https://www.123pan.com/s/ufwUVv-vTJk3.html) <br>[蓝奏云](https://qiusyan.lanzout.com/iD3gj1jti4vi) 密码：mods |
 | **Hwyla <br />(Here's What You're Looking At)** | 否       | 可显示对准方块的名称。                                       | 支持 Forge<br />支持 Fabric   | [123盘](https://www.123pan.com/s/ufwUVv-mvJk3.html)<br />[蓝奏云](https://qiusyan.lanzout.com/iR9ZD1k312ib) 密码：mods | [123盘](https://www.123pan.com/s/ufwUVv-ATJk3.html) <br>[蓝奏云](https://qiusyan.lanzout.com/iKyM81ju24yb) 密码：mods |
-| **VeinMiner Companion**                         | 否       | 使用按键绑定切换服务器上使用的连锁挖矿模式                   | 不支持 Forge<br />支持 Fabric | /                                                            | [123盘](https://www.123pan.com/s/ufwUVv-0TJk3.html) <br />[蓝奏云](https://qiusyan.lanzout.com/iPilY1jzlz0h) 密码：mods |
+
 
 !> 我们提供的以上Mods的版本均为**1.16.5**。如果您需要其他版本，请自行寻找。
 
