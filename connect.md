@@ -49,7 +49,7 @@
         </td>        
         <td>
             <li>Java版：<b>play.nhdao.space:19035</b></li>
-            <li>基岩版：<b>play.nhdao.space:19036</b></li>
+            <li>基岩版：<b>play.nhdao.space:19035</b></li>
         </td>
         <td>
             已禁用
