@@ -48,8 +48,7 @@
             </ul>
         </td>        
         <td>
-            <li>Java版：<b>play.nhdao.space:19035</b></li>
-            <li>基岩版：<b>play.nhdao.space:19035</b></li>
+            <b>play.nhdao.space:19035</b>
         </td>
         <td>
             已禁用
