@@ -57,7 +57,7 @@ https://pan.sakou.xyz/Minecraft/Java%20Edition/Modpacks/%E6%98%95%E5%A4%95%E4%BA
 
 !> 游戏路径需要选择解压后的第二个`.minecraft`文件夹，即选择后能看到 `assets`|`libraries`|`versions` 三个子文件夹的那个，如下图示
 
-> <img src="assets/images/6.png" style="zoom: 67%;" >
+> <img src="https://jsd.onmicrosoft.cn/gh/QSlotus/xinxi-docs@latest/assets/images/6.png" style="zoom: 67%;" >
 
 
 

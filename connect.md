@@ -35,21 +35,21 @@
 
 **第一步** 确保你已在皮肤站**注册了账户**，**创建了你的游戏角色** 并选择了一款心仪的皮肤 （如图示）
 
-> ![屏幕截图 2023-12-04 210458](assets/images/1.png)
+> ![屏幕截图 2023-12-04 210458](https://jsd.onmicrosoft.cn/gh/QSlotus/xinxi-docs@latest/assets/images/1.png)
 
 **第二步** 切换到皮肤站的 **仪表盘** 页面 并 启动HMCL
 
-> <img src="assets/images/2.png" alt="屏幕截图 2023-12-04 211041" style="zoom:50%;" />
+> <img src="https://jsd.onmicrosoft.cn/gh/QSlotus/xinxi-docs@latest/assets/images/2.png" alt="屏幕截图 2023-12-04 211041" style="zoom:50%;" />
 >
-> <img src="assets/images/3.png" alt="屏幕截图 2023-12-04 211151" style="zoom:50%;" />
+> <img src="https://jsd.onmicrosoft.cn/gh/QSlotus/xinxi-docs@latest/assets/images/3.png" alt="屏幕截图 2023-12-04 211151" style="zoom:50%;" />
 
 **第三步** 切换到HMCL的 **账户** 界面，选择 **添加账户** —— **Wonder Skin**
 
-> <img src="assets/images/4.png" alt="屏幕截图 2023-12-04 211433" style="zoom:50%;" />
+> <img src="https://jsd.onmicrosoft.cn/gh/QSlotus/xinxi-docs@latest/assets/images/4.png" alt="屏幕截图 2023-12-04 211433" style="zoom:50%;" />
 
 **第四步** 填入你的皮肤站账户 **邮箱** 和 皮肤站账户密码。
 
-> <img src="assets/images/5.png" alt="屏幕截图 2023-12-04 211603" style="zoom:50%;" />
+> <img src="https://jsd.onmicrosoft.cn/gh/QSlotus/xinxi-docs@latest/assets/images/5.png" alt="屏幕截图 2023-12-04 211603" style="zoom:50%;" />
 
 完成。
 
