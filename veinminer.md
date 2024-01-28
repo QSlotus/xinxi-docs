@@ -1,15 +1,15 @@
 # VeinMiner - 连锁挖矿
 
-SpigotMC链接：[VeinMiner | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/veinminer.12038/)
+官方Wiki：[VeinMiner | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/veinminer.12038/)
 
-上面有官方Wiki~~，能啃得动生肉的朋友可以去啃一啃~~
+<span class="heimu">能啃得动生肉的朋友可以去啃一啃</span>
 
 ## 相关配置
 
-| 配置项               | 值                  | 备注                                                         |
-| -------------------- | ------------------- | ------------------------------------------------------------ |
-| 连锁挖矿激活按键     | Shift键 / 潜行键    | 这个是服务端的配置<br>如果你安装了 **VeinMiner Companion** 的话可以自定义键 |
-| 在哪些游戏模式下可用 | 生存模式 & 冒险模式 |                                                              |
+| 配置项               | 值                  |
+| -------------------- | ------------------- |
+| 连锁挖矿激活按键     | Shift键 / 潜行键    |
+| 在哪些游戏模式下可用 | 生存模式 & 冒险模式 |
 
 ## 玩家可以连锁挖掘哪些方块？
 
@@ -81,7 +81,7 @@ SpigotMC链接：[VeinMiner | SpigotMC - High Performance Minecraft](https://www
 ||蓝冰|
 ||冰|
 
-<span class="heimu" title="你知道的太多了">累死我了我超</span>
+<span class="heimu">累死我了我超</span>
 
 <br>
 

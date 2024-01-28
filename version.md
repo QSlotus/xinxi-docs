@@ -86,5 +86,25 @@
   - [蓝奏云](https://www.ilanzou.com/s/ZHYn958)
   - [123盘](https://www.123pan.com/s/ufwUVv-lxJk3.html)
 
+### **Just Enough Items**
+
+- 版本：**1.18.2**
+- 中文名：**JEI物品管理器**
+- 支持的客户端类型：**Forge**
+- 是否必须安装：**是**
+- 功能：**显示物品合成配方。**
+- 下载地址：
+  - [直链下载](https://pan.sakou.xyz/Minecraft/Java%20Edition/Mods/jei-1.18.2-forge-10.2.1.1005.jar)
+  - [蓝奏云](https://www.ilanzou.com/s/t04ncJJ)
+  - [123盘](https://www.123pan.com/s/ufwUVv-opJk3.html)
+
 ## 我不想安装手动安装这些Mod怎么办
+
+如果您不想手动安装这些Mod，那么您可以选择使用官方整合包一键启动游戏。
+
+整合包链接：[昕夕亭 - RC.zip](https://pan.sakou.xyz/Minecraft/Java%20Edition/Modpacks/%E6%98%95%E5%A4%95%E4%BA%AD%20-%20RC.zip)
+
+**以HMCL为例：**
+
+启动HMCL，点击左侧【下载】-->【整合包】-->【安装整合包】-->【从互联网下载整合包】，将上面整合包的链接粘贴进去，点击确认即可。
 

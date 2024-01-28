@@ -78,7 +78,4 @@
 ||/zm playlist prev||切换到上一首歌曲||
 ||/zm playlist next||切换到下一首歌曲||
 ||/zm playlist jump \<ID>||切换到指定歌曲||
-|**VoiceChat**|Caps键||在按键说话模式下，按此键说话|切换大小写键|
-||V键||唤出语音聊天设置面板||
-|**Veinminer**|Shift键||激活连锁挖矿|更多帮助请查看 <br>[Veinminer - 连锁挖矿](veinminer.md)|
 |||||持续更新中...|
