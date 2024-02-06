@@ -5,6 +5,8 @@
   - [服务器指令](commands.md)
   - [从离线账户迁移](move.md)
   - [没有电脑 如何进入服务器？](android.md)
+- **Mod列表**
+  - [Mod列表](mods.md)
 - **插件帮助**
   - [Veinminer - 连锁挖矿](veinminer.md)
 - **其他**
