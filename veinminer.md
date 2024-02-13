@@ -81,7 +81,5 @@
 ||蓝冰|
 ||冰|
 
-<span class="heimu">累死我了我超</span>
-
 <br>
 
