@@ -11,14 +11,6 @@
   - 模组主页：[农夫乐事 (Farmer's Delight)](https://www.mcmod.cn/class/2820.html)
   - 模组 物品/方块 资料页：[物品/方块 - 农夫乐事 (Farmer's Delight)](https://www.mcmod.cn/item/list/2820-1.html)
 
-### **Jade 🔍**
-
-- 中文名：**玉**
-- 模组版本：**5.3.1**
-- 介绍：方块信息显示
-- MC百科相关链接：
-  - 模组主页：[玉 🔍 (Jade 🔍)](https://www.mcmod.cn/class/3482.html)
-
 ### **Skinned Lanterns**
 
 - 中文名：**灯笼皮肤**
@@ -40,25 +32,15 @@
 
 - 中文名：**植物魔法**
 - 模组版本：**build 435**
-- 介绍：<span class="heimu"><del>自己去MCMod看吧，懒得搬了</del></span>
 - MC百科相关链接：
   - 模组主页：[植物魔法 (Botania)](https://www.mcmod.cn/class/332.html)
   - 模组 物品/方块 资料页：[物品/方块 - 植物魔法 (Botania)](https://www.mcmod.cn/item/list/332-1.html)
 
-### **Just Another Vanilla Addon**
-
-- 中文名：**迫真原版增强**
-- 模组版本：**build 32**
-- 介绍：主要添加了许多 <span class="heimu">迫真的</span> 合成表，一些合理的游戏机制，和一些药水类型。
-- MC百科相关链接：
-  - 模组主页：[迫真原版增强 (Just Another Vanilla Addon)](https://www.mcmod.cn/class/5678.html)
-  - 模组 物品/方块 资料页：[物品/方块 - 迫真原版增强 (Just Another Vanilla Addon)](https://www.mcmod.cn/item/list/5678-1.html)
 
 ### **Ex Nihilo: Sequentia**
 
 - 中文名：**无中生有：传承**
 - 模组版本：**build 20230528 - 221633**
-- 介绍：自己去MCMod看
 - MC百科相关链接：
   - 模组主页：[无中生有：传承 (Ex Nihilo: Sequentia)](https://www.mcmod.cn/class/2881.html)
   - 模组 物品/方块 资料页：[物品/方块 - 无中生有：传承 (Ex Nihilo: Sequentia)](https://www.mcmod.cn/item/list/2881-1.html)
@@ -84,7 +66,6 @@
 
 - 中文名：**旅行者背包**
 - 模组版本：**7.1.46**
-- 介绍：自己去MCMod看
 - MC百科相关链接：
   - 模组主页：[旅行者背包 (Traveler's Backpack)](https://www.mcmod.cn/class/1732.html)
   - 模组 物品/方块 介绍页：[物品/方块 - 旅行者背包 (Traveler's Backpack)](https://www.mcmod.cn/item/list/1732-1.html)
