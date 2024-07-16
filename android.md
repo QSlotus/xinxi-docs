@@ -22,7 +22,7 @@
 **第二步** 点击右上方【账户管理】— 【认证服务器】，输入认证服务器地址：
 
 ```
-https://skin.nhdao.space/api/yggdrasil
+https://skin.mc.qiusyan.top/api/yggdrasil
 ```
 
 点击【下一步】添加认证服务器。随后填入你的皮肤站账号密码，点击【登录】即可。
@@ -32,7 +32,7 @@ https://skin.nhdao.space/api/yggdrasil
 **第三步** 点击【下载游戏】— 【整合包】— 【安装整合包】— 【从互联网下载整合包】，填入以下链接：
 
 ```
-https://pan.sakou.xyz/Minecraft/Java%20Edition/Modpacks/%E6%98%95%E5%A4%95%E4%BA%AD%20-%20RC.zip
+https://skin.mc.qiusyan.top/modpack/%E6%98%95%E5%A4%95%E4%BA%AD.zip
 ```
 
 点击【确认】，开始下载整合包。待整合包下载完毕后，点击【安装】开始安装游戏。
