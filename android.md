@@ -6,7 +6,7 @@
 
 !> **不支持 iOS**
 
-?> 本教程使用的是  **Fold Craft Launcher 1.1.5.1**
+?> 本教程使用的是  **Fold Craft Launcher 1.1.7.2**
 
 > **FCL** 左侧栏按钮从上到下依次是
 >
@@ -17,7 +17,7 @@
 > - 启动器设置
 > - 返回上一级
 
-**第一步** 点击链接下载并安装 [Fold Craft Launcher](https://mirror.ghproxy.com/https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.5.1/FCL-release-1.1.5.1-all.apk) （下称**FCL**）
+**第一步** 点击链接下载并安装 [Fold Craft Launcher](https://mirror.ghproxy.com/https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.7.2/FCL-release-1.1.7.2-all.apk) （下称**FCL**）
 
 **第二步** 点击右上方【账户管理】— 【认证服务器】，输入认证服务器地址：
 
