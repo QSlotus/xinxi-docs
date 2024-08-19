@@ -10,6 +10,6 @@
 - **插件帮助**
   - [Veinminer - 连锁挖矿](veinminer.md)
 - **其他**
-  - [服务器状态](https://stats.mc.qiusyan.top)
+  <!-- - [服务器状态](https://stats.mc.qiusyan.top) -->
   - [加入我们](joinus.md)
 
