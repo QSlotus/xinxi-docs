@@ -2,7 +2,7 @@
 
 官方Wiki：[VeinMiner | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/veinminer.12038/)
 
-<span class="heimu">能啃得动生肉的朋友可以去啃一啃</span>
+~~能啃得动生肉的朋友可以去啃一啃~~
 
 ## 相关配置
 

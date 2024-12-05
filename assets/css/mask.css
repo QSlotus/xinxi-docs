@@ -1,0 +1,21 @@
+ del {
+    text-decoration: none!important;
+    transition: .2s cubic-bezier(.25,.46,.45,.94) color,.2s cubic-bezier(.25,.46,.45,.94) background
+}
+
+ del * {
+    transition: .35s cubic-bezier(.25,.46,.45,.94) opacity
+}
+
+ del:not(:hover) {
+    color: transparent!important;
+    background: #000!important
+}
+
+ del:not(:hover) * {
+    opacity: 0!important
+}
+
+ del:not(:hover), del:not(:hover) * {
+    border: none!important
+}

@@ -15,7 +15,7 @@
 
 - 中文名：**灯笼皮肤**
 - 模组版本：**1.3.4**
-- 介绍：该模组为游戏提供了各种有皮肤的灯笼 <span class="heimu">建筑玩家狂喜</span>
+- 介绍：该模组为游戏提供了各种有皮肤的灯笼 ~~建筑玩家狂喜~~
 - MC百科相关链接：
   -  模组主页：[灯笼皮肤 (Skinned Lanterns)](https://www.mcmod.cn/class/4666.html)
   - 模组 物品/方块 资料页：[物品/方块 - 灯笼皮肤 (Skinned Lanterns)](https://www.mcmod.cn/item/list/4666-1.html)
